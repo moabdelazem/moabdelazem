@@ -1,16 +1,27 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Entry+Level+DevOps+Engineer)](https://git.io/typing-svg)
 
-<!--
-**moabdelazem/moabdelazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an entry-level DevOps engineer focused on learning and implementing modern infrastructure and automation practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux System Administration
+- CI/CD Pipelines
+- Docker and Containerization
+- Infrastructure as Code
+- Version Control (Git)
+- Scripting and Automation
+- Cloud Platforms
+
+## Currently Learning
+
+- Kubernetes and Container Orchestration
+- Cloud Services (AWS/Azure/GCP)
+- Monitoring and Logging Solutions
+- Configuration Management Tools
+- DevOps Best Practices
+
+## Contact
+
+Feel free to reach out for collaboration or discussions about DevOps and cloud technologies.
