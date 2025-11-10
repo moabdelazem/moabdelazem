@@ -7,4 +7,3 @@ Software developer with a passion for learning and exploring new technologies. C
 ## Contact
 
 email: mabdelazemahmed@gmail.com
-linkedin: moabdelazem
